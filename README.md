@@ -1,3 +1,8 @@
+# Introduction
+An exploration of Neural Networks and Deep Learning.
+
+Repo was forked from https://github.com/MichalDanielDobrzanski/DeepLearningPython 
+
 ## Overview
 
 ### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
